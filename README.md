@@ -12,5 +12,5 @@ Certifique-se de que preencheu o arquivo .env corretamente.
 No seu terminal, na pasta do projeto, execute o comando:
 
 ```
-uvicorn main:app --reload
+uvicorn main:app --reload --port 8001
 ```
